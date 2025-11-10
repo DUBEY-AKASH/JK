@@ -1,1 +1,1 @@
-echo "Akash V2"
+echo "Akash V6"
