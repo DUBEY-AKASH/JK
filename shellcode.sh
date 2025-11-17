@@ -1,1 +1,1 @@
-echoeh "Akash V8"
+echo "Akash V8"
